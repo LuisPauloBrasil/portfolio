@@ -38,7 +38,7 @@ function App() {
   };
 
   const github_url = "https://github.com/LuisPauloBrasil/"
-  const linkedin_url = "https://www.linkedin.com/in/luis-brasil/"
+  const linkedin_url = "https://linkedin.com/in/luis-brasil/"
   const whatsapp_url = "https://wa.me/5511963965062"
 
   const [isNavVisible, setIsNavVisible] = useState(false);
