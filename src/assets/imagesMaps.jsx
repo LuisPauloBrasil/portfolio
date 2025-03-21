@@ -28,7 +28,7 @@ import logo_digitalpm from "./icons/logo_digitalpm.svg";
 import icon_brasil from "./icons/icon-brasil.png";
 import icon_usa from "./icons/icon-usa.png";
 import icon_espanha from "./icons/icon-espanha.png";
-import dev_img from "./icons/dev_img.jpg";
+import dev_img from "./icons/luis_img.jpeg";
 import decorImg from "./icons/decorImg.png";
 
 

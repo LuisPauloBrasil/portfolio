@@ -1,8 +1,8 @@
 {
   "pt": {
-    "name": "Paulo Hasa",
-    "greeting": "E aí! Eu sou",
-    "professional": "Desenvolvedor",
+    "name": "Luis Paulo Brasil de Souza",
+    "greeting": "Olá! Eu sou",
+    "professional": "Engenheiro Mecânico e Eletricista",
     "fullstack": "Full Stack",
     "frontend": "Front-end",
     "backend": "Back-end",
@@ -62,9 +62,9 @@
   },
 
   "en": {
-    "name": "Paulo Hasa",
-    "greeting": "Hey! I'm",
-    "professional": "Developer",
+    "name": "Luis Paulo Brasil de Souza",
+    "greeting": "Hello! I'm",
+    "professional": "Mechanical and Electrical Engineer",
     "fullstack": "Full Stack",
     "frontend": "Front-end",
     "backend": "Back-end",
@@ -130,9 +130,9 @@
     },
 
   "es": {
-    "name": "Paulo Hasa",
+    "name": "Luis Paulo Brasil de Souza",
     "greeting": "¡Hola! Soy",
-    "professional": "Desarrollador",
+    "professional": "Ingeniero Mecánico e Eléctrico",
     "fullstack": "Full Stack",
     "frontend": "Front-end",
     "backend": "Back-end",
