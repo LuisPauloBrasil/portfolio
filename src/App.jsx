@@ -37,7 +37,7 @@ function App() {
     setLanguage(lang);
   };
 
-  const github_url = "https://github.com/PauloHASA"
+  const github_url = "https://github.com/LuisPauloBrasil/"
   const linkedin_url = "www.linkedin.com/in/luis-brasil/"
   const whatsapp_url = "https://wa.me/5511963965062"
 
