@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/LuisPauloBrasil/portfolio/issues"
   },
-  "homepage": "https://github.com/LuisPauloBrasil/portfolio#readme"
+  "homepage": "https://github.com/LuisPauloBrasil/portfolio#readme",
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "prettier-plugin-go-template": "^0.0.15"
+  }
 }
