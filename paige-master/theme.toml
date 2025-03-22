@@ -46,8 +46,7 @@ features = [
   "vimeo shortcode",
   "youtube shortcode",
 ]
-
-homepage = "https://luispaulobrasil.github.io/portfolio/"
+homepage = "https://github.com/willfaught/paige"
 license = "MIT"
 licenselink = "https://github.com/willfaught/paige/blob/master/LICENSE"
 name = "Paige"
@@ -73,5 +72,5 @@ tags = [
 ]
 
 [author]
-homepage = "https://luispaulobrasil.github.io/portfolio/"
+homepage = "https://willfaught.com"
 name = "Will Faught"
